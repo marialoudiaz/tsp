@@ -33,10 +33,6 @@ margin-top: -100px;
 .row{
   display: flex;
 }
-.col{
-  flex: 1
-}
-
 .feature col{
   display:flex;
   flex-wrap: wrap;
@@ -53,4 +49,15 @@ margin-top: -100px;
 
 .element4{
   justify-content: center;
+}
+
+.bi{
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.row{
+display: flex;
+flex-wrap: wrap;
+box-sizing: border-box;
 }
