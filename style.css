@@ -1,0 +1,56 @@
+.nav-item{
+text-decoration :white;
+}
+
+.container-fluid{
+  text-align: center;
+  color: greenyellow;
+}
+
+
+.d-flex{
+width: 100%;
+align-items: center;
+margin-top: -100px;
+}
+
+.container{
+  margin-top: 60px;
+}
+
+.card{
+  margin-top: 40px;
+}
+
+.h2{
+  margin-top: 20px;
+}
+
+.fa{
+  margin-top: 20px;
+}
+
+.row{
+  display: flex;
+}
+.col{
+  flex: 1
+}
+
+.feature col{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center
+}
+
+.element2{
+  justify-content: center;
+}
+
+.element3{
+  justify-content: center;
+}
+
+.element4{
+  justify-content: center;
+}
